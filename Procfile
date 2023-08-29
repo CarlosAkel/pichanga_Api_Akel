@@ -1,1 +1,1 @@
-web: ./bin/setup && bin/rails server
+web: ./bin/setup && heroku local
