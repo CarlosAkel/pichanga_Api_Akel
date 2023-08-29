@@ -1,1 +1,1 @@
-web: ./bin/setup
+web: ./bin/setup && bin/rails server
